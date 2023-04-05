@@ -14,7 +14,7 @@ after you get one of them copy this into the box
 ```lua
  loadstring(game:HttpGet('https://raw.githubusercontent.com/mrnotfunny/starline/main/script'))()
 ```
-#update
+# update
 
 if i dont give up on it i will be adding more games to it 
 
