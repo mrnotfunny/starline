@@ -1,11 +1,11 @@
 # starline
 a prison life admin script made by callmexdrop#2505
+join this discord
+```
+https://discord.gg/r6KMfdzHfR
+```
 
-# if you what to add me 
-
-discord = callmexdrop#2505
-
-roblox = mrnotfunny_Xp
+ 
 
 # how do i use starline
 
