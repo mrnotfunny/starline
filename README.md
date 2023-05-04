@@ -1,6 +1,6 @@
 # starline
 a prison life admin script made by callmexdrop#2505
-join this discord
+join the discord
 ```
 https://discord.gg/r6KMfdzHfR
 ```
